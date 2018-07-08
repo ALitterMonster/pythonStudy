@@ -1,0 +1,4 @@
+
+环境搭建
+https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
+https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
